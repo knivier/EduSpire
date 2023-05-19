@@ -298,9 +298,9 @@ a:visited {
   text-align: center;
   display: inline-block;
   cursor: pointer;
-  border-radius: 150px;
-  transition-duration: 0.75s;
-  background-color: #6161ff;
+  border-radius: 25px;
+  transition-duration: 1s;
+  background-color: #8080ff;
   float: left;
   position: relative;
 }
